@@ -1,0 +1,4 @@
+name: prgen
+version: 0.1.0
+description: Generate Pull Request title and description using Ollama AI
+bin: gh-prgen
